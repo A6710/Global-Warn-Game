@@ -1,7 +1,7 @@
 Global Warn Game
 
 📌 Description
-Global War is a strategy game in which the player must solve the global problems of the planet. The goal of the game is to show that it is impossible to cope with these challenges alone, it requires the joint efforts of all mankind.
+Global Warn is a strategy game in which the player must solve the global problems of the planet. The goal of the game is to show that it is impossible to cope with these challenges alone, it requires the joint efforts of all mankind.
 
 🎮 Gameplay
 - The player will have to fight climate change, environmental pollution, resource depletion and other global threats.
